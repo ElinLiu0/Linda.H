@@ -2,5 +2,4 @@
 
 ### Have hun with Linda.h
 
-
-### Run not only iPhone.
+### Trying to add possible header file on Linux
