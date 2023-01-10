@@ -20,7 +20,7 @@ void linda_h(void)
     printf("|____/ \\__, | |_____|_|_| |_|\\__,_|\\__,_(_)_| |_|\n");
     printf("       |___/\n");  
     PlaySound(TEXT("LindaH.wav"), NULL, SND_FILENAME | SND_ASYNC);
-    Sleep(8000);
+    Sleep(7000);
     system("cls");
     printf("                                     .:c.                   \n");
     printf("                                  'lkKNX;                   \n");
